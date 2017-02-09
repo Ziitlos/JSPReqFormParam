@@ -13,6 +13,7 @@
     <title>JSPReqFormParam</title>
 </head>
 <body>
+<nav><a href="index.jsp">index.jsp</a> / <a href="FormShow.jsp">FormShow.jsp</a></nav>
 <h1>JSPReqFormParam</h1>
 <h3>JSP Beispiele mit Form Parameter, HTTP Request Headers und JSP UseBean</h3>
 
